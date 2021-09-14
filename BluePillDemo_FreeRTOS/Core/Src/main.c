@@ -185,6 +185,11 @@ int main(void)
   while (1)
   {
     /* USER CODE END WHILE */
+		
+	// added random code
+	// for(;;){
+	// endless loop)
+
 
     /* USER CODE BEGIN 3 */
   }
